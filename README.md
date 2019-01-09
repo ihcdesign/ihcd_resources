@@ -6,7 +6,7 @@ https://material.io/design/usability/
 
 https://www.microsoft.com/design/
 
-https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0
+https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1
 
 https://lawsofux.com/
 
